@@ -90,3 +90,11 @@ $echo $変数名
 $printenv すべての環境変数を表示
 $export 変数＝値　環境変数の設定
 $source ファイル名　ファイルの反映
+
+***11bashシェルの操作***
+ctrl + A カーソルを先頭
+ctrl + E カーソルの行末
+ctrl + D 文字削除
+ctrl + H backspaceと同じ
+ctrl + L 画面のクリア
+
