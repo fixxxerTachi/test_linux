@@ -98,3 +98,6 @@ ctrl + D 文字削除
 ctrl + H backspaceと同じ
 ctrl + L 画面のクリア
 
+
+***12 プライマリグループの変更****
+newgrp (グループ名)
