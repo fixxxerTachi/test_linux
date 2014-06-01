@@ -107,3 +107,5 @@ apachectl configtest
   or
  httpd -t
  
+****13 インストール済みのパッケージの確認 *****
+rpm -qa
