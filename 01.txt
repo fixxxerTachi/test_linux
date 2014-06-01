@@ -101,3 +101,6 @@ ctrl + L 画面のクリア
 
 ***12 プライマリグループの変更****
 newgrp (グループ名)
+
+***13 apache設定ファイルの確認 ****
+apachectl configtest
